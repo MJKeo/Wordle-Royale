@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Wordle-Royale/static/css/main.073c9b0a.css",
+    "main.js": "/Wordle-Royale/static/js/main.69d8796f.js",
+    "static/js/787.d5d65c18.chunk.js": "/Wordle-Royale/static/js/787.d5d65c18.chunk.js",
+    "static/media/logo.svg": "/Wordle-Royale/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Wordle-Royale/index.html",
+    "main.073c9b0a.css.map": "/Wordle-Royale/static/css/main.073c9b0a.css.map",
+    "main.69d8796f.js.map": "/Wordle-Royale/static/js/main.69d8796f.js.map",
+    "787.d5d65c18.chunk.js.map": "/Wordle-Royale/static/js/787.d5d65c18.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.69d8796f.js"
+  ]
+}
